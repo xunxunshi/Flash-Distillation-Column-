@@ -1,0 +1,25 @@
+Chemical: water
+MolarMass: 18.015 g/mol
+CriticalTemperature: 647.096 Kelvin
+CriticalPressure: 220.64 bar
+AcentricFactor: 0.3449 unitless
+AntoinesConstants: 
+16.3872 
+3885.7 
+-42.98 
+Gas_Heat_Cap_Constants: 
+3.47 
+0.00145 
+0.0 
+12100.0 
+Liquid_Heat_Cap_Constants: 
+276370.0 
+-2090.1 
+8.125 
+-0.01412 
+9.37E-6 
+Latent_Heat_Constants: 5.21E7 
+0.3199 
+-0.212 
+0.25795 
+0.0 

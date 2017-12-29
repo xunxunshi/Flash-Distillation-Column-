@@ -1,0 +1,25 @@
+Chemical: pentane
+MolarMass: 72.15 g/mol
+CriticalTemperature: 469.7 Kelvin
+CriticalPressure: 33.7 bar
+AcentricFactor: 0.2515 unitless
+AntoinesConstants: 
+13.7667 
+2451.88 
+-41.136 
+Gas_Heat_Cap_Constants: 
+2.464 
+4.535E-2 
+-14.11E-6 
+0.0
+Liquid_Heat_Cap_Constants: 
+159080.0 
+-270.5 
+0.99537 
+0.0
+0.0 
+Latent_Heat_Constants: 3.91E7 
+0.38681 
+0.0 
+0.0 
+0.0 

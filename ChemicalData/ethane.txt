@@ -1,0 +1,25 @@
+Chemical: ethane
+MolarMass: 30.07 g/mol
+CriticalTemperature: 305.42 Kelvin
+CriticalPressure: 48.8 bar
+AcentricFactor: 0.099 unitless
+AntoinesConstants: 
+13.88 
+1582.0 
+-13.76 
+Gas_Heat_Cap_Constants: 
+1.131 
+0.0192 
+-5.56E-6 
+0.0 
+Liquid_Heat_Cap_Constants: 
+44.009 
+89718.0 
+918.77 
+-1886.0 
+0.0
+Latent_Heat_Constants: 2.11E7 
+0.60646 
+-0.55492 
+0.32799 
+0.0 

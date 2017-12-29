@@ -1,0 +1,25 @@
+Chemical: cyclohexane
+MolarMass: 84.16 g/mol
+CriticalTemperature: 553.54 Kelvin
+CriticalPressure: 40.75 bar
+AcentricFactor: 0.212 unitless
+AntoinesConstants: 
+13.6568 
+2723.44 
+-52.532 
+Gas_Heat_Cap_Constants: 
+-3.876 
+0.0632 
+-2.09E-5 
+0.0 
+Liquid_Heat_Cap_Constants: 
+-220600.0 
+3118.3 
+-9.4216 
+0.010687 
+0.0 
+Latent_Heat_Constants: 4.49E7 
+0.3974 
+0.0 
+0.0 
+0.0 

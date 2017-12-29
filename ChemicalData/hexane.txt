@@ -1,0 +1,25 @@
+Chemical: hexane
+MolarMass: 86.18 g/mol
+CriticalTemperature: 507.43 Kelvin
+CriticalPressure: 30.12 bar
+AcentricFactor: 0.305 unitless
+AntoinesConstants: 
+13.8193 
+2696.04 
+-48.833 
+Gas_Heat_Cap_Constants: 
+3.025 
+0.0537 
+-1.68E-5 
+0.0 
+Liquid_Heat_Cap_Constants: 
+172120.0 
+-183.78 
+0.88734 
+0.0 
+0.0 
+Latent_Heat_Constants: 4.45E7 
+0.39002 
+0.0 
+0.0 
+0.0 

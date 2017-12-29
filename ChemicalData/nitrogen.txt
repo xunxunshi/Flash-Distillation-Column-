@@ -1,0 +1,25 @@
+Chemical: nitrogen
+MolarMass: 28.013 g/mol
+CriticalTemperature: 126.2 Kelvin
+CriticalPressure: 34.0 bar
+AcentricFactor: 0.0377 unitless
+AntoinesConstants: 
+13.45 
+658.0 
+-2.85 
+Gas_Heat_Cap_Constants: 
+3.28 
+5.93E-4 
+0.0 
+4000.0 
+Liquid_Heat_Cap_Constants: 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Latent_Heat_Constants: 7490000.0 
+0.40406 
+-0.317 
+0.27343 
+0.0 
